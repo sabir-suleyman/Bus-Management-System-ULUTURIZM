@@ -30,7 +30,7 @@ Bir otobüs firmasının rezervasyon ve bilet kayıtlarını tutmak için kullan
 
 ## 1.2. İş-Zaman Çizelgesi
 
-[image]
+![image](https://github.com/sabir-suleyman/Bus-Management-System-ULUTURIZM/blob/main/images/iszamancizelgesi.png)
 
 ## 1.3 Proje Gereksinimleri: 
 
@@ -48,7 +48,7 @@ Otobüslerin ve koltukların bilgilerinin kaydedilmesi.
 Boş ve dolu koltukların takibi ve gösterimi.
 Rezervasyon yapıldığında dolu koltukların işaretlenmesi.
 
-[image]
+![image](https://github.com/sabir-suleyman/Bus-Management-System-ULUTURIZM/blob/main/images/projegereksinimleri.jpg)
 
 # 2. YÖNTEM
 
@@ -65,11 +65,11 @@ Arayüz Tasarımı:
 
 Uygulamanın arayüzü WinForms (Windows Forms), Microsoft'un .NET Framework platformu için geliştirdiği bir GUI teknolojisi kullanarak oluşturulmuştur ve geliştirilmesinde .NET 6.0 sürümü kullanılmıştır. Toplamda 2 pencereden oluşan arayüz, kullanıcının giriş yaparken gerekli olan kişisel bilgilerini girebilmesi, istediği yere istediği zamanda bilet oluşturabilmesi ve oluşturduğu biletleri silebilmesi gibi önemli işlemleri gerçekleştirebilmesine olanak sağlamaktadır. 
 
-[photo]
+![image](https://github.com/sabir-suleyman/Bus-Management-System-ULUTURIZM/blob/main/images/arayuz1.png)
 
 Bilet oluşturma sırasında açılan bir diğer pencerede yolculuk sırasında kullanıcının oturacağı koltuğu seçebilmesi ve koltuk durum bilgisine(boş koltuklar - yeşil, dolu koltuklar - kırmızı) erişebilmesi için tasarlanan butonlar yer almaktadır, bu butonlar sayesinde kullanıcı oturmak istediği koltuğu hızlı bir şekilde tek tıkla seçebilmektedir. 
 
-[image]
+![image](https://github.com/sabir-suleyman/Bus-Management-System-ULUTURIZM/blob/main/images/arayuz2.png)
 
 # 3. UYGULAMA
 **Otobüs Sınıfı**:
