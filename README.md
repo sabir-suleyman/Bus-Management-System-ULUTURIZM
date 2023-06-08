@@ -14,12 +14,12 @@ Bus management system with an interface prepared using current data structures a
 | Zeynep Uysal          | [zeynep-u](https://github.com/zeynep-u)             |
 | Zeynep Kılınçer       | [zkilincer](https://github.com/zkilincer)           |
 | İrem İÇÖZ             | [irem0](https://github.com/irem0)                   |
-| Ferit Yiğit BALABAN   | [fybx](https://github.com/fybx)                     |
-| Mine KORKMAZ          | [minekorkmazz](https://github.com/minekorkmazz)     |
-| Helin GÜL             | [ihelingul](https://github.com/ihelingul)           |
-| Damla SOYDAN          | [damlas21](https://github.com/damlas21)             |
-| Fatma Büşra TİLKİ     | [fatmabusratilki](https://github.com/fatmabusratilki)|
-| Fatma Nur AYYILDIZ    | [fatmanur01](https://github.com/fatmanur01)         |
+| Ferit Yiğit Balaban   | [fybx](https://github.com/fybx)                     |
+| Mine Korkmaz          | [minekorkmazz](https://github.com/minekorkmazz)     |
+| Helin Gül             | [ihelingul](https://github.com/ihelingul)           |
+| Damla Soydan          | [damlas21](https://github.com/damlas21)             |
+| Fatma Büşra Tilki     | [fatmabusratilki](https://github.com/fatmabusratilki)|
+| Fatma Nur Ayyıldız    | [fatmanur01](https://github.com/fatmanur01)         |
 
 
 # Title of the Project: ULU TURİZM (More than a Bus Company)
