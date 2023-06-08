@@ -13,7 +13,7 @@ Bus management system with an interface prepared using current data structures a
 | Sabir Süleymanlı      | [sabir-suleyman](https://github.com/sabir-suleyman) |
 | Zeynep Uysal          | [zeynep-u](https://github.com/zeynep-u)             |
 | Zeynep Kılınçer       | [zkilincer](https://github.com/zkilincer)           |
-| İrem İÇÖZ             | [irem0](https://github.com/irem0)                   |
+| İrem İçöz             | [irem0](https://github.com/irem0)                   |
 | Ferit Yiğit Balaban   | [fybx](https://github.com/fybx)                     |
 | Mine Korkmaz          | [minekorkmazz](https://github.com/minekorkmazz)     |
 | Helin Gül             | [ihelingul](https://github.com/ihelingul)           |
