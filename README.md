@@ -2,11 +2,11 @@
 <a href="README.md"><img src="https://img.shields.io/badge/-ENGLISH-red?style=for-the-badge"></a>
 <a href="README.tr.md"><img src="https://img.shields.io/badge/-T%C3%9CRK%C3%87E-red?style=for-the-badge"></a>
 
-# Project Details
+# 🧩 Project Details
 
 Bus management system with graphical interface prepared using current data structures as the final project of "BMB2006-Data Structures" subject
 
-# Team Members
+# 🏆 Team Members
 
 | Name                  | GitHub Username                                     |
 |-----------------------|-----------------------------------------------------|
@@ -22,10 +22,10 @@ Bus management system with graphical interface prepared using current data struc
 | Fatma Nur Ayyıldız    | [fatmanur01](https://github.com/fatmanur01)         |
 
 
-# Title of the Project: ULU TURİZM (More than a Bus Company)
+# 🚌 Title of the Project: ULU TURİZM (More than a Bus Company)
 It is a software project that will be used to keep reservation and ticket records of a bus company.
 
-# 1. INTRODUCTION
+# 1. INTRODUCTION 💡
 ## 1.1 Objective
 **Easy Ticket Purchase**: Providing users with the opportunity to purchase bus tickets with ease. Ticket Sales Platform: Providing a platform for the bus company to sell tickets. 
 **Improving User Experience**: To facilitate users' travel plans and improve their experience. 
@@ -55,7 +55,7 @@ Marking full seats when a reservation is made.
 
 ![image](https://github.com/sabir-suleyman/Bus-Management-System-ULUTURIZM/blob/main/images/projegereksinimleri.jpg)
 
-# 2. METHOD
+# 2. METHOD 📚
 
 ## 2.1. Implementation Phase 
 - The necessary resources for the realization of the project were secured
@@ -76,7 +76,7 @@ In another window that opens during ticket creation, there are buttons designed 
 
 ![image](https://github.com/sabir-suleyman/Bus-Management-System-ULUTURIZM/blob/main/images/arayuz2.png)
 
-# 3. APPLICATION
+# 3. APPLICATION 📲
 **Bus Class**:
 A bus class has been written. This class contains the properties and behavior of the bus and will be used to manage ticket transactions.
 
@@ -144,11 +144,11 @@ Defines a class named TicketList. This class is derived from the SingleBoundList
 The Bas property represents the head of the list and can take an object of type TicketContainer or null. This class is used to hold ticket containers in a linked list structure.
   
   
-# 4. TESTING AND EVALUATION
+# 4. TESTING AND EVALUATION ⚙
 Some of the project requirements were successfully fulfilled and tested. The code was assessed to be readable and understandable. Data structures and algorithms were chosen and implemented correctly. It was also tested that the functions did not return erroneous or unexpected results. The performance of the application was measured and evaluated. Tested that the user can easily use the application. It was also evaluated that the code has a convenient structure for updating and maintaining.
 
 
-# 5. CONCLUSION (DISCUSSION AND CONCLUSION)
+# 5. CONCLUSION (DISCUSSION AND CONCLUSION) 💬
 Throughout the development process, we worked in line with project requirements and customer expectations. Technical details such as legibility and comprehensibility of the code, correct selection of data structures and effective use of algorithms were taken into account in the project evaluation.
 A user-friendly interface design made it easy for the user to use the application. It was also evaluated that the application has a suitable structure for maintenance and updating.
 During the project phase, there were difficulties in connecting the classes harmoniously with each other and integrating them with the interface. In particular, a large number of different classes were created to ensure that data structures and algorithms were chosen correctly and that data was managed and processed appropriately. 
