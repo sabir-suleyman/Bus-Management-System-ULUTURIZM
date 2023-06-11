@@ -1,11 +1,11 @@
 ## Bu Dosyayı başka dillerde oku:
 <a href="README.md"><img src="https://img.shields.io/badge/-ENGLISH-red?style=for-the-badge"></a>
 <a href="README.tr.md"><img src="https://img.shields.io/badge/-T%C3%9CRK%C3%87E-red?style=for-the-badge"></a>
-# Proje Detayı
+# 🧩 Proje Detayı
 
 "BMB2006-Veri Yapıları" dersinin bitirme projesi olarak güncel veri yapıları kullanılarak hazırlanmış arayüzlü Otobüs yönetim sistemi.
 
-# Takım Üyeleri
+# 🏆 Takım Üyeleri
 
 | İsim                  | GitHub Kullanıcı Adı                                |
 |-----------------------|-----------------------------------------------------|
@@ -20,11 +20,13 @@
 | Fatma Büşra Tilki     | [fatmabusratilki](https://github.com/fatmabusratilki)|
 | Fatma Nur Ayyıldız    | [fatmanur01](https://github.com/fatmanur01)         |
 
-# Projenin Başlığı: ULU TURİZM (Bir Otobüs Firmasından Daha Fazlası)
+# 🚌 Projenin Başlığı: ULU TURİZM (Bir Otobüs Firmasından Daha Fazlası)
 Bir otobüs firmasının rezervasyon ve bilet kayıtlarını tutmak için kullanılacak olan bir yazılım projesidir.
 
-# 1. GİRİŞ
+# 1. GİRİŞ 💡
+
 ## 1.1 Amaç
+
 **Kolay Bilet Satın Alma**: Kullanıcılara otobüs biletlerini kolaylıkla satın alma imkânı sağlamak. Bilet Satış Platformu: Otobüs firmasına bilet satışı için bir platform sağlamak. 
 **Kullanıcı Deneyimini İyileştirme**: Kullanıcıların seyahat planlarını kolaylaştırmak ve deneyimlerini geliştirmek. 
 **Bilet Arama ve Rezervasyon**: Kullanıcıların seyahat tarihleri,  kalkış ve varış noktaları, otobüs sınıfları gibi tercihlerine göre bilet arama ve rezervasyon yapma özelliği.
@@ -53,7 +55,7 @@ Rezervasyon yapıldığında dolu koltukların işaretlenmesi.
 
 ![image](https://github.com/sabir-suleyman/Bus-Management-System-ULUTURIZM/blob/main/images/projegereksinimleri.jpg)
 
-# 2. YÖNTEM
+# 2. YÖNTEM 📚
 
 ## 2.1. Uygulama Aşaması 
 - Projenin gerçekleştirilmesi için gerekli kaynaklar temin edildi
@@ -74,7 +76,7 @@ Bilet oluşturma sırasında açılan bir diğer pencerede yolculuk sırasında 
 
 ![image](https://github.com/sabir-suleyman/Bus-Management-System-ULUTURIZM/blob/main/images/arayuz2.png)
 
-# 3. UYGULAMA
+# 3. UYGULAMA 📲
 **Otobüs Sınıfı**:
 Bir otobüs sınıfı yazıldı. Bu sınıf, otobüsün özelliklerini ve davranışlarını içerir ve bilet işlemlerini yönetmek amacıyla kullanılacak.
 
@@ -144,11 +146,11 @@ BiletListesi adında bir sınıf tanımlar. Bu sınıf, TekYonluBagliListe<Bilet
 Bas özelliği, listenin başını temsil eder ve BiletKonteyner türünden bir nesneyi veya null değerini alabilir. Bu sınıf, bilet konteynerlerini bir bağlı liste yapısında tutmak için kullanılır.
 
 
-# 4. TEST VE DEĞERLENDİRME
+# 4. TEST VE DEĞERLENDİRME ⚙
 Proje gereksinimlerinin bir kısmı başarıyla yerine getirildi ve test edildi. Kodun okunaklı ve anlaşılır olduğu değerlendirildi. Veri yapıları ve algoritmalar doğru seçildi ve uygulandı. İşlevlerin hatalı veya beklenmedik sonuçlar döndürmediği de test edildi. Uygulamanın performansı ölçüldü ve değerlendirildi. Kullanıcının uygulamayı kolayca kullanabildiği test edildi. Kodun güncelleştirilmesi ve bakımı için uygun bir yapıya sahip olduğu da değerlendirildi.
 
 
-# 5. SONUÇ (TARTIŞMA VE SONUÇ)
+# 5. SONUÇ (TARTIŞMA VE SONUÇ) 💬
 Geliştirme süreci boyunca proje gereksinimleri ve müşteri beklentileri doğrultusunda çalışıldı. Kodun okunaklı ve anlaşılır olması, veri yapılarının doğru seçimi ve algoritmaların etkin kullanımı gibi teknik detaylar, proje değerlendirmesinde dikkate alındı.
 Kullanıcı dostu bir arayüz tasarımı ile kullanıcının uygulamayı kolayca kullanabilmesi sağlandı. Uygulamanın bakımı ve güncelleştirilmesi için uygun bir yapıda olduğu da değerlendirildi.
 Proje aşamasında, sınıfların birbirleriyle uyumlu şekilde bağlanması ve arayüzle entegre edilmesi konusunda zorluklar yaşandı. Özellikle, veri yapıları ve algoritmaların doğru seçilmesi, verilerin uygun şekilde yönetilmesi ve işlenmesi için çok sayıda farklı sınıf oluşturuldu. 
