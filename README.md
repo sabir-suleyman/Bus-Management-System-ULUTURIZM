@@ -4,7 +4,7 @@
 
 # Project Details
 
-Bus management system with an interface prepared using current data structures as the final project of "BMB2006-Data Structures" subject
+Bus management system with graphical interface prepared using current data structures as the final project of "BMB2006-Data Structures" subject
 
 # Team Members
 
